@@ -5,3 +5,7 @@
 
 ## graphql
 testing GraphQL APIs saved in MongoDB
+
+```
+$ nodemon app
+```
